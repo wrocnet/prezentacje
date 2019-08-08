@@ -1,0 +1,2 @@
+# prezentacje
+Slajdy prezentacji wstępnych
