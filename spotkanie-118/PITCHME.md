@@ -4,8 +4,8 @@
 
 @snap[south span-50]
 
-### Spotkanie 119
-#### 17.09.2019
+### Spotkanie 118
+#### 21.05.2019
 
 @snapend
 
